@@ -1,0 +1,9 @@
+[Core]
+Name = Desafio
+Module = Desafio
+
+[Documentation]
+Author = Rodrigo Damasceno
+Version = 0.1.0
+Website = www.giruenf.net
+Description = Desafio Rodrigo Damasceno
